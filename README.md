@@ -19,6 +19,7 @@
 
 
 ## OUTPUT
+![website sanju](https://github.com/Sanjanalingamurthy/EX10_Web-Design/assets/127816526/33bd62f3-f82b-46a5-ad94-dcf5752e9aeb)
 
 
 ## RESULT
